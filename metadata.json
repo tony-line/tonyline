@@ -1,0 +1,6 @@
+{
+  "name": "Customer Message Assistant",
+  "description": "Create the right message for every customer situation. Short, natural, polite English messages for restaurant staff communicating with foreign customers via LINE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
